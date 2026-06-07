@@ -2,6 +2,10 @@
 
 此專案展示如何運用 CRISP-DM（Cross-Industry Standard Process for Data Mining）流程來進行線性回歸分析，並透過 Streamlit 打造一個互動式的 Dashboard 讓使用者動態調整參數與觀察離群值。
 
+## 🌐 Live Demo
+
+如果您已經將應用程式部署至 Streamlit Community Cloud，您可以透過以下連結即時體驗：
+👉 **[點此觀看 Live Demo](https://share.streamlit.io/)** *(註：如果您部署成功，請將此連結替換為您的專屬 App 網址，例如：`https://frank40281-hw4.streamlit.app`)*
 ## 專案檔案結構
 
 - `app.py`: Streamlit 網頁應用程式（包含 KPI、長條圖、散佈圖與漸層表格）。
